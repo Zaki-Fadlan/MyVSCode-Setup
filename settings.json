@@ -1,0 +1,21 @@
+{
+	"workbench.colorTheme": "Abyss",
+	"workbench.iconTheme": "vscode-icons",
+	"editor.linkedEditing": true,
+	"prettier.bracketSameLine": true,
+	"prettier.withNodeModules": true,
+	"prettier.useTabs": true,
+	"prettier.vueIndentScriptAndStyle": true,
+	"diffEditor.codeLens": true,
+	"editor.defaultFormatter": "esbenp.prettier-vscode",
+	"editor.formatOnSave": true,
+	"xml.format.experimental": true,
+	"php.validate.executablePath": "",
+	"editor.formatOnPaste": true,
+	"editor.formatOnType": true,
+	"[html]": {
+		"editor.defaultFormatter": "vscode.html-language-features"
+	},
+	"git.autofetch": true,
+	"git.enableSmartCommit": true
+}
